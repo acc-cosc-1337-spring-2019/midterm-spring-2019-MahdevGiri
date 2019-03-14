@@ -15,7 +15,6 @@ Loop through vector of Roll and output roll result
 
 int main() 
 {
-
 	Die d1;
 	Die d2;
 	vector<Roll>rollList;
